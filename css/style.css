@@ -1,4 +1,23 @@
-/* Created by: Mr. Coxall
-* Created on: Sep 2020
+/* Created by: Domenic Dangelo
+* Created on: feb 2025
 * This file contains the CSS for index.html
 */
+
+body {
+  background-color: rgba(232, 243, 24, 0.937);
+}
+
+h1 {
+  background-color: rgb(46, 183, 228);
+  color: hsl(0, 0%, 0%);
+  padding: 10px;
+  text-align: center;
+  font-size: x-large;
+}
+img {
+  padding: 10px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
